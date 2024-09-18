@@ -36,6 +36,13 @@ main {
     text-align: center;
 }
 
+hr {
+            border: 0;
+            height: 3px;
+            background: #ff7b00;
+            margin: 20px 0;
+}
+
 h2 {
     color: #4CAF50;
     font-size: 28px;
